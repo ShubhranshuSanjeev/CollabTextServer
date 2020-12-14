@@ -2,7 +2,6 @@
 npm-debug.log
 .DS_Store
 /*.env
-*.njsproj
-*.njsproj.user
+*.njsproj*
 *.sln
-/.vs
+.vs/*/*
