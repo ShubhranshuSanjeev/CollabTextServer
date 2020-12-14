@@ -1,6 +1,6 @@
 const net = require('net');
 const port = 7070;
-const host = 'shielded-plateau-27399.herokuapp.com';
+const host = '127.0.0.1';
 
 const server = net.createServer();
 server.listen(port, host, () => {
