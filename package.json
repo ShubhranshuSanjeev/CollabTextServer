@@ -4,7 +4,6 @@
   "description": "CollabTextServer",
   "main": "server.js",
   "scripts": {
-    "postinstall": "npm run build",
     "start": "node server.js"
   },
   "author": {
